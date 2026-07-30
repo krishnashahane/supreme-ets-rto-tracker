@@ -1,0 +1,9 @@
+RTO DOCUMENTS
+.DS_Store
+**/.DS_Store
+scripts
+data
+upload.log
+.env.pulled
+.creds.tmp.json
+.git

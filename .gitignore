@@ -1,0 +1,39 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# next.js
+/.next/
+/out/
+next-env.d.ts
+
+# production
+/build
+
+# misc
+.DS_Store
+**/.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# env
+.env
+.env*.local
+.env.production
+
+# vercel
+.vercel
+
+# large source documents (uploaded to Vercel Blob, never committed/deployed)
+/RTO DOCUMENTS/
+
+# generated manifest is published to Blob (not needed in repo)
+/data/manifest.json
+
+# temporary generated credentials
+.creds.tmp.json
